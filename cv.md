@@ -32,6 +32,11 @@ _____
 
 ## Experience
 
+### Senior Software Engineer in Synesis - Minsk, Belarus. 
+### *Apr 2018 - Now*
+
+___
+
 ### Lead Developer in Bookie - Minsk, Belarus. 
 ### *Dec 2012 - Jan 2017*
 
