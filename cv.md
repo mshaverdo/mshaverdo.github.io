@@ -35,6 +35,11 @@ _____
 ### Senior Software Engineer in Synesis - Minsk, Belarus. 
 ### *Apr 2018 - Now*
 
+**Responsibilities:**
+* Maintain own forks of Kubernetes, Calico, etcd
+* Develop infrastructure services
+* Interviewing new employees
+
 ___
 
 ### Lead Developer in Bookie - Minsk, Belarus. 
