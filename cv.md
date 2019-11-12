@@ -2,43 +2,54 @@
 ### *Software Engineer*
 ____
 ____
-Minsk, Belarus
+Moscow, Russia
 
-+375-29 871-54-46
++37 903 293-00-37
 
 [m.shaverdo@gmail.com](mailto:m.shaverdo@gmail.com)
 
 
 ## Skills
-- **Primary languages**
-  - GO: highload, microservices
-  - PHP: OO-PHP, Symfony, Doctrine, Composer
-  - MySQL: DB design, query optimization
+- **Primary languages and technologies**
+  - Golang
+  - Kubernetes
+  - Service mesh
+  - Linux
 - **Auxiliary languages**
+  - PHP
   - Python
-  - RegExp
   - JavaScript
-  - C
-  - HTML
-  - CSS
   - Bash
-- **Tools**
-  - Git
-  - Mercurial
-  - JIRA
 
 _____
 _____
 
 ## Experience
 
+### Senior Software Engineer in Avito - Moscow, Russia. 
+### *Apr 2019 - Now*
+
+**Responsibilities:**
+* Develop and maintain cloud infrastructure services
+
+**Key achievements:**
+
+* Designed & implemented multicluster service mesh: https://github.com/avito-tech/navigator
+
+___
+
 ### Senior Software Engineer in Synesis - Minsk, Belarus. 
-### *Apr 2018 - Now*
+### *Apr 2018 - Mar 2019*
 
 **Responsibilities:**
 * Maintain own forks of Kubernetes, Calico, etcd
 * Develop infrastructure services
 * Interviewing new employees
+
+**Key achievements:**
+
+* Designed & implemented network consistency daemon
+* Implemented numerous features in kubernetes fork: API requests throttling, prevent IP addresses leaks, split brain preventing, etc
 
 ___
 
