@@ -49,7 +49,7 @@ ___
 **Key achievements:**
 
 * Designed & implemented network consistency daemon
-* Implemented numerous features in kubernetes fork: API requests throttling, prevent IP addresses leaks, split brain preventing, etc
+* Implemented some features in kubernetes fork: API requests throttling, prevent IP addresses leaks, split brain preventing, etc
 
 ___
 
