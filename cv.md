@@ -10,16 +10,15 @@ Moscow, Russia
 
 
 ## Skills
-- **Primary languages and technologies**
+- **Primary**
   - Golang
   - Kubernetes
-  - Service mesh
   - Linux
-- **Auxiliary languages**
-  - PHP
+  - Hihgload Architecture
+- **Sidearm**
   - Python
-  - JavaScript
   - Bash
+  - PHP
 
 _____
 _____
@@ -35,6 +34,13 @@ _____
 **Key achievements:**
 
 * Designed & implemented multicluster service mesh: https://github.com/avito-tech/navigator
+* Migrated N (sorry, NDA) Petabytes of images to Ceph
+* Designed/partially implemented (with colleagues) images transformation subsystem
+* Led internal project of user-generated content storage
+* Designed "backend system design" interview section 
+* Interviewed 100+ employee candidates
+* Acting as team scrum master
+* Made several presentatinos on public conferences
 
 ___
 
