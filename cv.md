@@ -40,7 +40,7 @@ _____
 * Designed "backend system design" interview section 
 * Interviewed 100+ employee candidates
 * Acting as team scrum master
-* Made several presentatinos on public conferences
+* Made several presentatinos in public conferences
 
 ___
 
